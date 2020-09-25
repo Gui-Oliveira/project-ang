@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Guilherme Silva",
+      "cpfCnpj": "435.994.748-85"
+    },
+    {
+      "id": 2,
+      "name": "Arthur",
+      "cpfCnpj": "13.676.850/0001-56"
+    },
+    {
+      "id": 3,
+      "name": "Gianberto",
+      "cpfCnpj": "084.427.648-01"
+    }
+  ]
+}
